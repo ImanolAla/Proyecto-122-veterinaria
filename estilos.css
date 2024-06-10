@@ -1,0 +1,45 @@
+body {
+    background-image: url(pags/fondopet.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.navbar a {
+    color: white !important;
+}
+
+.navbar a:hover {
+    background-color: #e2e621;
+    color: rgb(0, 0, 0) !important;
+}
+.container {
+    padding: 20px;
+}
+
+.card-img-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body {
+    background-color: #6cb3ee;
+}
+
+
+.container-fluid {
+    background-color: #183308;
+}
+
+footer {
+    background-color: #333; 
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+

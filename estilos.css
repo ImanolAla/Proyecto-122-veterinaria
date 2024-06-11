@@ -42,4 +42,16 @@ footer {
     padding: 10px;
     text-align: center;
 }
+.carousel-caption h5{
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    font-weight: bold;
+}
+    
+.carousel-caption p {
+    color: rgb(0, 0, 0);
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
 
